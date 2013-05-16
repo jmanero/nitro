@@ -1,0 +1,21 @@
+{
+	"name" : "nitro",
+	"version" : "0.0.0",
+	"description" : "Volatile data storage engine",
+	"keywords" : [ "database", "timeout", "notify" ],
+	"dependencies" : {
+		"simple-uid" : "0.0.1"
+	},
+	"author" : {
+		"name" : "John Manero",
+		"email" : "jmanero@dyn.com"
+	},
+	"license":  "MIT",
+	"repository" : {
+		"type" : "git",
+		"url" : ""
+	},
+	"engines": {
+		"node": ">=0.8.19"
+	}
+}
