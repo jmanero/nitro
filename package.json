@@ -1,6 +1,6 @@
 {
 	"name" : "nitro",
-	"version" : "0.0.0",
+	"version" : "0.0.1",
 	"description" : "Volatile data storage engine",
 	"keywords" : [ "database", "timeout", "notify" ],
 	"dependencies" : {
